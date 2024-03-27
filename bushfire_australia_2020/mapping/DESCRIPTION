@@ -1,0 +1,13 @@
+Package: mapping
+Title: A Collection Of Mapping Functions and Data
+Version: 0.1
+Authors@R: 'Murray Logan <m.logan@aims.gov.au> [aut, cre]'
+Description: A collection of mapping functions and data specifically for Queensland and the GBR
+Depends: R (>= 3.1.0)
+License: What license is it under?
+LazyData: true
+Maintainer: 'Murray Logan' <m.logan@aims.gov.au>
+Imports: sp
+NeedsCompilation: no
+Packaged: 2015-10-04 00:51:14 UTC; murray
+Author: 'Murray Logan' [aut, cre]
